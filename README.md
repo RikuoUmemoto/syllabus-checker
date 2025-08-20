@@ -1,1 +1,3 @@
 # syllabus-checker
+syllabus_batch_checkはjsonファイルから授業内容とタイトルの整合性を確認します。
+syllabus_check_resultはsyllabus_batch_checkの出力内容です。
