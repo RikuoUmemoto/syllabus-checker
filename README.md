@@ -31,13 +31,16 @@ filter_syllabus_llmは実行後入力した検索キーワードに関連する�
 
 ---
 
-## 🎓 研究的な位置づけ
-- Embedding方式では「検索精度評価」「モデルごとの性能比較」など、学術的に意味のある実験が可能。  
-- LLM方式は「曖昧な質問応答」「授業要約」といった発展的な用途に活用できるが、本システムの主タスクでは不要。
-
----
-
 ## 📌 結論
 - 実装は **Embedding検索を標準採用**  
 - LLMは必要に応じて拡張機能として検討可能（例: 要約、シラバスQ&A など）
 
+
+### ⚙️ 実行方法
+コマンドライン引数 `--method` により切り替え可能です。
+```bash
+# Embedding検索（標準）
+python filter_syllabus_llm.py --json syllabus_2025_full.json --method embed
+
+# LLM検索（実験的）
+python filter_syllabus_llm.py --json syllabus_2025_full.json --method llm
