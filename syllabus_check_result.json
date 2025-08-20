@@ -1,0 +1,692 @@
+[
+  {
+    "index": 1,
+    "title": "COT100XE（計算基盤 / Computing technologies 100）プログラミング言語Ｃ＋＋／Programming Language C++",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 2,
+    "title": "COT100XE（計算基盤 / Computing technologies 100）プログラミング言語Ｃ＋＋／Programming Language C++",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 3,
+    "title": "MAT200XE（数学 / Mathematics 200）数論／Number Theory",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、数論はタイトルにふさわしいと考えられます。"
+  },
+  {
+    "index": 4,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）プログラミング言語ＪＡＶＡ／Programming Language JAVA",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 5,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）プログラミング言語ＪＡＶＡ／Programming Language JAVA",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 6,
+    "title": "OTR300XE（その他 / Others 300）ＰＢＬ／Project Based Learning",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 7,
+    "title": "OTR300XE（その他 / Others 300）インターンシップ／Internship Education Program",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 8,
+    "title": "BSP100XE（初年次教育、学部導入教育及びリテラシー教育 / Basic study practice 100）情報工学入門／Introduction to information engineering",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 9,
+    "title": "PRI100XE（情報学基礎 / Principles of informatics 100）集合と命題論理／Propositional logic and set theory",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業は「集合と命題論理／Propositional logic and set theory」というタイトルにふさわしい内容です。"
+  },
+  {
+    "index": 10,
+    "title": "PRI200XE（情報学基礎 / Principles of informatics 200）データ構造とアルゴリズム／Data structure and algorithm",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、データ構造とアルゴリズムは情報学の基礎をなすものであると考えられるので、タイトルにふさわしいと考えられます。"
+  },
+  {
+    "index": 11,
+    "title": "HUI200XE（人間情報学 / Human informatics 200）セキュリティ概論／Overview of network security",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 12,
+    "title": "ELC100XE（電気電子工学 / Electrical and electronic engineering 100）基礎電気回路（情報）／Fundamental of electrical circuits",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、ELC100XEは電気電子工学の授業であり、基礎電気回路について学ぶ授業であるため、タイトルは適切であると考えられます。"
+  },
+  {
+    "index": 13,
+    "title": "COT100XE（計算基盤 / Computing technologies 100）組込システムの基礎／Fundamental of embedded systems",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 14,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）計算機アーキテクチャ／Computer architecture",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業は計算機アーキテクチャについて扱っているので、タイトルは適切であると考えられます。"
+  },
+  {
+    "index": 15,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）計算機アーキテクチャ演習／Exercises in computer architecture",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業は計算機アーキテクチャ演習というタイトルにふさわしい内容です。"
+  },
+  {
+    "index": 16,
+    "title": "HUI100XE（人間情報学 / Human informatics 100）論理回路／Basic logic circuitry",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 17,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）情報理論／Information theory",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 18,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）形式言語とオートマトン／Formal language theory and automata",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 19,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）アセンブリ言語／Assembly language",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 20,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）アセンブリ言語演習／Exercises in assembly language",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 21,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）オペレーティングシステム／Operating system",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "オペレーティングシステムの概要、その歴史、ファイルシステム、プロセス管理、セキュリティなどについて学ぶ。"
+  },
+  {
+    "index": 22,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）データベース／Fundamental of databases",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、データベースの基礎を学ぶ授業であるため、タイトルは適切であると考えられます。"
+  },
+  {
+    "index": 23,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）Ｗｅｂ技術論／Web technology",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 24,
+    "title": "PRI200XE（情報学基礎 / Principles of informatics 200）組み合わせアルゴリズム／Combinatorics",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業は組み合わせアルゴリズム／Combinatoricsという授業名で、その内容は情報学基礎の授業の到達目標に沿っているのでタイトルにふさわしいと考えられます。"
+  },
+  {
+    "index": 25,
+    "title": "HUI200XE（人間情報学 / Human informatics 200）ヒューマンインタフェース／Human-computer interface",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 26,
+    "title": "HUI200XE（人間情報学 / Human informatics 200）認知心理学／Cognitive psychology",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、認知心理学は人間情報学の授業の中で必ず取り上げるものであるため、タイトルは適切であると考えられます。"
+  },
+  {
+    "index": 27,
+    "title": "HUI200XE（人間情報学 / Human informatics 200）人工知能概論　／Overview of artificial intelligence",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業は人工知能概論というタイトルにふさわしい内容です。"
+  },
+  {
+    "index": 28,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）Ｗｅｂ／ＸＭＬ演習／Web and XML exercises",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 29,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）符号と暗号の理論／Coding theory and cryptography",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 30,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）計算量の理論／Computational complexity",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 31,
+    "title": "HUI300XE（人間情報学 / Human informatics 300）画像診断装置概論／Overview of medical imaging apparatuses",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 32,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）ネットワークプログラミング／Network programming",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 33,
+    "title": "ELC200XE（電気電子工学 / Electrical and electronic engineering 200）組込ソフトウェア開発／Embedded system development I",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、ELC200XEは組込ソフトウェア開発の授業であり、タイトルは授業内容と一致しています。"
+  },
+  {
+    "index": 34,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）ＶＬＳＩ入門／Introduction of VLSI systems",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 35,
+    "title": "HUI200XE（人間情報学 / Human informatics 200）感性工学／KANSEI engineering",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 36,
+    "title": "HUI300EX（人間情報学 / Human informatics 300）情報工学実験2／Experiments in Information Engineering II",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 37,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）オペレーティングシステム演習／Exercises in operating system",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 38,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）情報工学実験3／Experiments in information engineering III",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 39,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）情報工学ゼミナール／Seminar on information engineering",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 40,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）情報ネットワーク設計論／Information network design",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 41,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）コンパイラ／Compiler",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 42,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）コンパイラ演習／Exercise in Compiler",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 43,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）リアルタイムＯＳとプロセッサ／Real-time OS and processors",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 44,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）分散アルゴリズム／Distributed algorithms",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 45,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）セマンティックＷｅｂ／Semantic Web",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 46,
+    "title": "HUI300XE（人間情報学 / Human informatics 300）画像工学／Image processing",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 47,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）組込モデリング／Modeling for embedded system",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 48,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）ネットワークアプリケーション設計論／Network application design",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業はネットワークアプリケーション設計論とタイトルに記載されています。"
+  },
+  {
+    "index": 49,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）自然言語処理／Natural language processing",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 50,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）ソフトコンピューティング／Soft computing",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、ソフトコンピューティング／Soft computingは計算基盤 / Computing technologies 300の授業内容に適切であると考えられます。"
+  },
+  {
+    "index": 51,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）Ｗｅｂデザイン／Web design",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、WebデザインはCOT300XEの到達目標に該当するため、タイトルにふさわしいと考えられます。"
+  },
+  {
+    "index": 52,
+    "title": "HUI300XE（人間情報学 / Human informatics 300）エージェント技術／Agent technology",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 53,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）認証技術／Authentication technique",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 54,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）プログラミング言語理論・設計／Programming language theory and design",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業はプログラミング言語理論・設計というタイトルにふさわしい内容です。"
+  },
+  {
+    "index": 55,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）パターン認識／Pattern recognition",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 56,
+    "title": "COT400XE（計算基盤 / Computing technologies 400）セキュアシステム設計／Secure system and design",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業は計算基盤 (Secure system and design) というタイトルにふさわしい内容です。"
+  },
+  {
+    "index": 57,
+    "title": "COT400XE（計算基盤 / Computing technologies 400）コンピュータビジョン／Computer vision",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 58,
+    "title": "HUI400XE（人間情報学 / Human informatics 400）コンピュータグラフィックス／Computer graphics",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 59,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）組込アプリケーション／Embedded application",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 60,
+    "title": "HUI300EX（人間情報学 / Human informatics 300）IoTネットワーク／IoT Network Technology",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 61,
+    "title": "COT100XE（計算基盤 / Computing technologies 100）情報ネットワーク概論／Introduction of Information Network",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 62,
+    "title": "COT100XE（計算基盤 / Computing technologies 100）インターネットプロトコル／Protocol for Internet",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業はインターネットプロトコルについて扱っているのでタイトルは適切であると考えられます。"
+  },
+  {
+    "index": 63,
+    "title": "HUI200EX（人間情報学 / Human informatics 200）コンピュータビジョン基礎／Basic of Computer Vision",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 64,
+    "title": "ELC200XE（電気電子工学 / Electrical and electronic engineering 200）電磁気学基礎／Basic Electromagnetism",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 65,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）マルチモーダル情報処理／Multi-modal Information Processing",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 66,
+    "title": "COS300XE（計算科学 / Computational science 300）最適化数学／Optimization",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 67,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）クラウドコンピューティング／Cloud Computing",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 68,
+    "title": "HUI200XE（人間情報学 / Human informatics 200）組込制御工学／Embedded System Control Engineering",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 69,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）ハードウェアアルゴリズム／Hardware algorithms",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業はハードウェアアルゴリズムというタイトルにふさわしい内容です。"
+  },
+  {
+    "index": 70,
+    "title": "MAT100XE（数学 / Mathematics 100）離散数学（情報）／Discrete Mathematics",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 71,
+    "title": "COT100XE（計算基盤 / Computing technologies 100）プログラミング言語Ｃ（情報）／Programming Language C",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 72,
+    "title": "COT100XE（計算基盤 / Computing technologies 100）プログラミング言語Ｃ（情報）／Programming Language C",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 73,
+    "title": "COT100XE（計算基盤 / Computing technologies 100）プログラミング言語Ｃ演習（情報）／Seminar on Programming Language C",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 74,
+    "title": "COT100XE（計算基盤 / Computing technologies 100）プログラミング言語Ｃ演習（情報）／Seminar on Programming Language C",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 75,
+    "title": "BSP100XE（初年次教育、学部導入教育及びリテラシー教育 / Basic study practice 100）自然科学の方法（情報）／Methods in the Natural Sciences",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業はタイトルにふさわしいと考えられます。"
+  },
+  {
+    "index": 76,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）ビッグデータ情報分析／Big Data Information Analysis",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業はビッグデータの情報分析の技術を学ぶ授業であるため、タイトルは適切であると考えられます。"
+  },
+  {
+    "index": 77,
+    "title": "PHY200XE（物理学 / Physics 200）物理学応用（情報）／Applied Physics",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 78,
+    "title": "OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 79,
+    "title": "OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 80,
+    "title": "OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 81,
+    "title": "OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 82,
+    "title": "OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 83,
+    "title": "OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 84,
+    "title": "OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 85,
+    "title": "OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 86,
+    "title": "OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 87,
+    "title": "OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 88,
+    "title": "OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 89,
+    "title": "OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 90,
+    "title": "OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 91,
+    "title": "OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 92,
+    "title": "OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 93,
+    "title": "OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 94,
+    "title": "OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 95,
+    "title": "OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 96,
+    "title": "MAT200XE（数学 / Mathematics 200）応用数学（情報）／Applied Mathematics",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 97,
+    "title": "MAT200XE（数学 / Mathematics 200）応用解析（情報）／Applied Analysis",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 98,
+    "title": "ELC200XE（電気電子工学 / Electrical and electronic engineering 200）電子回路／Electronic circuit",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 99,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）関数型プログラミング／Functional programming",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 100,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）計算の原理／Principle of computation",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 101,
+    "title": "FRI300XE（情報学フロンティア / Frontiers of informatics 300）アプリケーション開発演習／Exercise on software development",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業はアプリケーション開発演習というタイトルにふさわしい内容です。"
+  },
+  {
+    "index": 102,
+    "title": "FRI300XE（情報学フロンティア / Frontiers of informatics 300）機械学習演習／Exercise on machine learning",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、と思います。"
+  },
+  {
+    "index": 103,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）セキュア・プログラミング／Secure programming",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業は計算基盤 (Secure programming) というタイトルにふさわしい内容です。"
+  },
+  {
+    "index": 104,
+    "title": "OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 105,
+    "title": "OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 106,
+    "title": "MAT100XE（数学 / Mathematics 100）確率論／Probability Theory",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 107,
+    "title": "COT300XE（計算基盤 / Computing technologies 300）信号処理理論／Thery of Signal Processing",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、信号処理理論はCOT300XEの授業内容として適切であると考えられます。"
+  },
+  {
+    "index": 108,
+    "title": "HUI200XE（人間情報学 / Human informatics 200）データサイエンス1／Data Science 1",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、データサイエンス1は人間情報学科の授業であるため、タイトルは適切であると考えられます。"
+  },
+  {
+    "index": 109,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）情報工学実験1／Experiments in Information Engineering I",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、内容はタイトルにふさわしいと考えています。"
+  },
+  {
+    "index": 110,
+    "title": "COT200XE（計算基盤 / Computing technologies 200）ソフトウェア工学／Software Engineering",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、ソフトウェア工学／Software Engineeringは計算基盤 / Computing technologies 200の授業内容と一致しています。"
+  },
+  {
+    "index": 111,
+    "title": "HUI200EX（人間情報学 / Human informatics 200）IoTシステム工学／IoT System Engineering",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 112,
+    "title": "HUI200XE（人間情報学 / Human informatics 200）データサイエンス2／Data Science 2",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、データサイエンス2は人間情報学科の授業であるため、タイトルは適切であると考えられます。"
+  },
+  {
+    "index": 113,
+    "title": "PRI100XE（情報学基礎 / Principles of informatics 100）Introduction to Computer Science and Information Technology／Introduction to Computer Science and Information Technology",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい、この授業はタイトルにふさわしいと考えられます。"
+  },
+  {
+    "index": 114,
+    "title": "OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  },
+  {
+    "index": 115,
+    "title": "OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree",
+    "question": "この授業の内容はタイトルにふさわしいですか？",
+    "answer": "はい。"
+  }
+]
