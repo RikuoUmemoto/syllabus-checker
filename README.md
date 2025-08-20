@@ -11,7 +11,7 @@ filter_syllabus_llmは実行後入力した検索キーワードに関連する�
 
 ---
 
-## 🤖 LLM vs Embedding
+## LLM vs Embedding
 
 本システムは当初、**LLM（大規模言語モデル）による検索** と **Embedding（ベクトル類似度検索）** の両方式を検討しました。
 
